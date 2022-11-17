@@ -97,7 +97,8 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
+  - { url: '/about', text: 'About' }
   - { url: '/projects', text: 'Projects' }
   - { url: '/achievements', text: 'Achievements' }
   - { url: '/worknpub', text: 'Work and Publications' }
-  - { url: '/about', text: 'About' }
+  - { url: '/coursework', text: 'Coursework' }
