@@ -8,10 +8,10 @@ permalink: /projects/
 
 - [Blockchain](#1-indexooor)
 - [Computer Vision](#1-autonet)
-- [Reinforcement Learning](#5-autonomous-greenhouse-control)
-- [NLP/Timeseries](#7-qupid)
-- [Data](#11-smart-sampling-synthesiser)
-- [Software Development](#13-everecon)
+- [Reinforcement Learning](#6-autonomous-greenhouse-control)
+- [NLP/Timeseries](#8-qupid)
+- [Data](#12-smart-sampling-synthesiser)
+- [Software Development](#14-everecon)
 
 
 #### 1. Indexooor
