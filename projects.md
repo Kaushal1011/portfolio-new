@@ -6,7 +6,7 @@ permalink: /projects/
 
 ### My Projects
 
-- [Blockchain]
+- [Blockchain](#1-indexooor)
 - [Computer Vision](#1-autonet)
 - [Reinforcement Learning](#5-autonomous-greenhouse-control)
 - [NLP/Timeseries](#7-qupid)
