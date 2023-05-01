@@ -28,7 +28,7 @@ Indexooor Stack is an open-source project for indexing and querying smart contra
 
 <!-- <br> -->
 
-#### 1. Autonomous Car: Bosch Future Mobility Challenge 2022
+#### 2. Autonomous Car: Bosch Future Mobility Challenge 2022
 
 **_"1/10th scale level 2.5 autonomous car"_**
 
@@ -37,7 +37,7 @@ Developed an autonomous driving car capable of navigating in a miniature smart c
 - [Kaggle Gist by @arpitvaghela](https://www.kaggle.com/code/arpitvaghela9210/sign-detection-for-bosch-future-mobility-challenge/notebook)
 - [Report](https://drive.google.com/file/d/11QEVMVKBsas6qBmj7B8ELXAtcT--a-Yj/view?usp=sharing)
 
-#### 1. AutoNet
+#### 3. AutoNet
 
 **_"Neural architecture search for CNN, SaaS."_**
 
@@ -46,7 +46,7 @@ Conceptualized and implemented a microservices-based architecture to search and 
 - [Code](https://github.com/arpitvaghela/autoNet)
 - [Video Demo](https://youtu.be/icMs8bZsRao)
 
-#### 1. Stereo Depth Estimation
+#### 4. Stereo Depth Estimation
 
 **_"Estimate depth from stereo images"_**
 
@@ -54,7 +54,7 @@ Evaluated the effectiveness of multiple stereo depth estimation algorithms on an
 
 - [Report](https://drive.google.com/file/d/11QEVMVKBsas6qBmj7B8ELXAtcT--a-Yj/view?usp=sharing)
 
-#### 1. Distributed City Surveillance
+#### 5. Distributed City Surveillance
 
 **_"Detect guns and knives in public places"_**
 
@@ -67,7 +67,7 @@ Created a location sourcing platform for security bodies, used for sourcing unsa
 
 <!-- <br> -->
 
-#### 1. Autonomous Greenhouse Control
+#### 6. Autonomous Greenhouse Control
 
 **_"Control greenhouse parameter using RL."_**
 
@@ -76,7 +76,7 @@ Created an autonomous control system based on reinforcement learning for control
 - [Code](https://github.com/Kaushal1011/AutonomousGreenhouseControl)
 - [Presentation](https://github.com/Kaushal1011/AutonomousGreenhouseControl/blob/main/AOBD_AutonomousGreenhouseControl.pdf)
 
-#### 1. Congestion Control in Networks
+#### 7. Congestion Control in Networks
 
 Smart congestion control algorithm using reinforcement learning.
 
@@ -86,7 +86,7 @@ Smart congestion control algorithm using reinforcement learning.
 
 <!-- <br> -->
 
-#### 1. Qupid
+#### 8. Qupid
 
 **_"Build teams made for each other with the power of AI"_**
 
@@ -95,20 +95,20 @@ Developed a novel team-making algorithm based on the cosine similarity of profil
 - [Code](https://github.com/Kaushal1011/Qupid)
 - [Video Demo](https://youtu.be/Y8q1dmxS2MY)
 
-#### 1. Fweelts
+#### 9. Fweelts
 
 Detect sentiments from twitter data. Normal, Financial & Emotional.
 
 - [Code](https://github.com/Kaushal1011/Fweelts)
 - [Video Demo](https://youtu.be/eIp2K6CeRc0)
 
-#### 9. Stock Price from Fundmentals Prediction
+#### 10. Stock Price from Fundmentals Prediction
 
 Predict if a stock will go up in the next 3 months based on fundamentals
 
 - [Code](https://github.com/Kaushal1011/CSE523-Machine-Learning-Quantcats)
 
-#### 1. Pollumeter
+#### 11. Pollumeter
 
 Detect future AQI by analysing time series data.
 
@@ -118,7 +118,7 @@ Detect future AQI by analysing time series data.
 
 <!-- <br> -->
 
-#### 1. Smart Sampling Synthesiser
+#### 12. Smart Sampling Synthesiser
 
 Use FFT like algo based on LinReg to replicate audio as synth
 
@@ -128,13 +128,13 @@ Use FFT like algo based on LinReg to replicate audio as synth
 
 <!-- <br> -->
 
-#### 1. Help More
+#### 13. Help More
 
 A crowd sourcing platform that sources community service by rewarding people for their service. Uses blockchain lending pool.
 
 - [Code](https://github.com/Kaushal1011/help-more)
 
-#### 1. Everecon
+#### 14. Everecon
 
 A platform for community management and event listing. Project for software development, Extreme Programming and Kaban.
 
