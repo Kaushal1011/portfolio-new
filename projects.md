@@ -7,7 +7,7 @@ permalink: /projects/
 ### My Projects
 
 - [Blockchain](#1-indexooor)
-- [Computer Vision](#1-autonet)
+- [Computer Vision](#2-autonomous-car-bosch-future-mobility-challenge-2022)
 - [Reinforcement Learning](#6-autonomous-greenhouse-control)
 - [NLP/Timeseries](#8-qupid)
 - [Data](#12-smart-sampling-synthesiser)
