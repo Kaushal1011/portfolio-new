@@ -6,6 +6,8 @@ permalink: /projects/
 
 ### My Projects
 
+All of my projects contain a good amount of system design :). Some are monoliths, microservices while once is an autonomous agent in a multiprocessing environment with a good amount of IPC. These are the domains from AI which these systems are created for and utilise a few algorithms from them.
+
 - [Blockchain](#1-indexooor)
 - [Computer Vision](#2-autonomous-car-bosch-future-mobility-challenge-2022)
 - [Reinforcement Learning](#6-autonomous-greenhouse-control)
