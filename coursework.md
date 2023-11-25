@@ -3,8 +3,13 @@ layout: inner
 title: Coursework
 permalink: /coursework/
 ---
+### Coursework UIC
 
-### Coursework
+1. CS441 Distributed Objects for Cloud Computing
+2. CS483 Big Data Mining 
+3. CS514 Applied Artificial Intelligence
+
+### Coursework Ahmedabad University
 
 1. **CSE540 Cloud Computing**
 

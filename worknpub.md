@@ -10,9 +10,22 @@ permalink: /worknpub/
 
 ### Work Experience
 
+#### Graduate Research Assistant - [UIC Center for Clinical and Translational Science](https://ccts.uic.edu/)
+
+`Aug 2023 - Present`
+
+Working as a full-stack Django developer on the ADRESai project building a smart data availability and query platform for medical data queries requested by researchers.
+
+Responsibilities:
+
+- Working on the ADRESai project building a smart data availability and query platform for medical data queries requested by researchers.
+- Creating new features, optimizing queries in Django, creating new APIs, and integrating new data sources.
+- Currently, I am trying to solve the asynchronous job scheduling problem in Django.
+
+
 #### Cofounder and CTO - [getriff.xyz](https://getriff.xyz) (Sister Company of Pedals Up)
 
-`Jul 2022 - Present`
+`Jul 2022 - Jun 2023`
 
 Riff is a utility that helps integrate smart contract calls and makes transactions safer using Data aggregation and AI.
 
@@ -24,7 +37,7 @@ Responsibilities:
 
 #### Software Development Engineer 2 - [Pedals Up](https://pedalsup.com)
 
-`May 2020 - Jan 2021(Intern), Jul 2022 - Present`
+`May 2020 - Jan 2021(Intern), Jul 2022 - Jul 2023`
 
 Pedals up is a software development agency based out of Ahmedabad specializing in web and blockchain development.
 
