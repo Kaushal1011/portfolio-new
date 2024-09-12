@@ -6,7 +6,7 @@ permalink: /worknpub/
 
 ### Publications
 
-1. **[Kaushal Patil, Panth Patel, Maryam Kaveshgar [2022]](https://ieeexplore.ieee.org/abstract/document/10421800)** - Evaluating Depth Estimation Algorithms in Unstructured Driving Environments: Submitted for review at IEEE Transactions on Intelligent Vehicles.
+1. **[Kaushal Patil, Panth Patel, Maryam Kaveshgar [2022]](https://ieeexplore.ieee.org/abstract/document/10421800)** - Evaluating Depth Estimation Algorithms in Unstructured Driving Environments: Publised in IEEE International Conference on Intelligent Transportation 2023.
 
 ### Work Experience
 
