@@ -6,7 +6,7 @@ permalink: /worknpub/
 
 ### Publications
 
-1. **[Kaushal Patil, Panth Patel, Maryam Kaveshgar [2022]](https://drive.google.com/file/d/1aff8AMkfXFf5KuPV41-hMMI7sw1S0oZU/view?usp=sharing)** - Evaluating Depth Estimation Algorithms in Unstructured Driving Environments: Submitted for review at IEEE Transactions on Intelligent Vehicles.
+1. **[Kaushal Patil, Panth Patel, Maryam Kaveshgar [2022]](https://ieeexplore.ieee.org/abstract/document/10421800)** - Evaluating Depth Estimation Algorithms in Unstructured Driving Environments: Submitted for review at IEEE Transactions on Intelligent Vehicles.
 
 ### Work Experience
 
@@ -18,9 +18,9 @@ Working as a full-stack Django developer on the ADRESai project building a smart
 
 Responsibilities:
 
-- Working on the ADRESai project building a smart data availability and query platform for medical data queries requested by researchers.
-- Creating new features, optimizing queries in Django, creating new APIs, and integrating new data sources.
-- Currently, I am trying to solve the asynchronous job scheduling problem in Django.
+- Developed 6+ user-facing modules, including both the UI/UX and backend APIs, for a data availability platform used by several medical AI researchers.
+- Designed and implemented an intuitive tool for creating complex ontologies for patient cohort generation, simplifying a traditionally complex process and improving usability for researchers.
+- Integrated multiple CCTS databases(PostgreSQL, Oracle) with Django, creating a seamless and secure platform that supports high-throughput data access and delivery to platforms like Redcap.
 
 
 #### Cofounder and CTO - [getriff.xyz](https://getriff.xyz) (Sister Company of Pedals Up)
@@ -43,8 +43,9 @@ Pedals up is a software development agency based out of Ahmedabad specializing i
 
 Responsibilities:
 
-- Working on multiple client projects for backend software development using NodeJS and Python.
-- Designing system architecture for client products, using various software architecture design patterns and implementing them.
+- Engineered backend systems for 15+ client projects, focusing on APIs, web infrastructure, and blockchain smart contracts using NodeJS, Python and Solidity.
+- Architected over 25 microservices using the MERN stack, FastAPI, and NextJS, contributing to highly scalable solutions.
+- Spearheaded cloud deployment strategies (requiring 99.9% uptime) using AWS and Docker, improving the performance and reliability of web applications
 
 #### AI Instructor - Intel RAI4Y Program
 

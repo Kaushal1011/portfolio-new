@@ -6,10 +6,12 @@ permalink: /about/
 
 ## About Me
 
-I am Kaushal, a Masters in Computer Science student at UIC. I like to code, make music and design stuff. I take up new projects every now and then to explore new sets of technologies. I have no fixed roles, but you could say that I am a builder. I professionally work on multiple software development projects daily, usually on the backend side. I have experience developing for systems with advanced system architecture.
+I’m Kaushal, a Master's student in Computer Science at UIC. I love to code, create music, and design. Over the years, I’ve tackled diverse software projects, building backend systems and distributed architectures using technologies like Python, JavaScript, and Scala. I don’t confine myself to one role—I’m a builder, always eager to explore new technologies.
 
-I am interested in researching artificial intelligence and Big Data. I have created several projects academically and open source that solve daily problems using various machine learning and deep learing approaches and I am currently building a new product that leverages AI technology to make blockchain transactions safer. [Check out my projects](https://www.kaushalpatil.me/projects).
+I’m passionate about AI and Distributed Systems. I’ve built various projects that solve everyday problems using machine learning and deep learning techniques. Currently, I’m developing a product that leverages AI to enhance blockchain transaction security. Check out my projects.
 
-I co-founded [getriff.xyz](https://getriff.xyz), where I worked on applications of AI to improve user security on blockchain and integrating Web3 with legacy solutions. I explored ways of extracting on-chain data and making smart contracts queryable from non-browser and legacy systems by creating safe magic links. I wanted to generate actionable insights for our users from blockchain data and detect fraudulent transactions before our users approve. 
+I also co-founded getriff.xyz, where I explored the integration of AI with Web3, improving user security and blockchain accessibility. Our work involved extracting on-chain data and creating smart contract queries from legacy systems through magic links. My goal was to generate actionable insights and detect fraudulent transactions before they were approved by users.
 
-Currently I am working as graduate research assitant at UIC's center for clinical and translational science. I work as a full stack djano developer. I am working on ADRESai project building smart data availability, query  platform for medical data queries requested by researchers. My role invloves creating new features, optimising queries in django, creating new APIs and integrating new data sources. Currently, I am trying to solve asynchronous job scheduling problem in django.
+Currently, I’m a Graduate Research Assistant at UIC’s Center for Clinical and Translational Science. I work as a full-stack Django developer on the ADRESai project, building a smart data availability and query platform for medical research data. My work involves creating new features, optimizing queries, building APIs, and integrating new data sources. I’m also solving challenges like asynchronous job scheduling in Django.
+
+Let’s connect and build something impactful together!

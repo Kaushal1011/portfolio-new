@@ -6,8 +6,17 @@ permalink: /coursework/
 ### Coursework UIC
 
 1. CS441 Distributed Objects for Cloud Computing
-2. CS483 Big Data Mining 
+   1. Grade Received: A
+2. CS483 Big Data Mining
+   1. Grade Received: A 
 3. CS514 Applied Artificial Intelligence
+   1. Grade Received: A
+4. CS594 Applied Cryptography
+   1. Grade Received: A
+5. CS553 Distributed Systems
+   1. Grade Received: A
+6. CS476 Programming Language Design and Implementation
+7. CS559 Neural Networks
 
 ### Coursework Ahmedabad University
 
