@@ -49,10 +49,10 @@ permalink: /projects/
 #### AI Projects
 
 - **AutoNet**
-  _"Neural architecture search for CNN, SaaS."_**
+  _"Neural architecture search for CNN, SaaS."_
   Conceptualized and implemented a microservices-based architecture to search and train a CNN model for uploaded images using the “DARTS: Differential Architecture Search” algorithm to search for a CNN model. Developed various components of the architecture performing intercommunication using Kafka.
-- [Code](https://github.com/arpitvaghela/autoNet)
-- [Video Demo](https://youtu.be/icMs8bZsRao)
+  - [Code](https://github.com/arpitvaghela/autoNet)
+  - [Video Demo](https://youtu.be/icMs8bZsRao)
 
 - **Autonomous Greenhouse Control**  
   _Control greenhouse parameters using reinforcement learning_  
