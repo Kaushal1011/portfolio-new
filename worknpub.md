@@ -23,7 +23,7 @@ Responsibilities:
 - Integrated multiple CCTS databases(PostgreSQL, Oracle) with Django, creating a seamless and secure platform that supports high-throughput data access and delivery to platforms like Redcap.
 
 
-#### Cofounder and CTO - [getriff.xyz](https://getriff.xyz) (Sister Company of Pedals Up)
+#### Cofounder and CTO - [getriff.xyz](https://getriff.xyz)
 
 `Jul 2022 - Jun 2023`
 
